@@ -1,0 +1,105 @@
+ ACCALL - Accessibility calculations
+ PDB FILE INPUT pdb1bgg.new
+ PROBE SIZE       1.40
+ Z-SLICE WIDTH   0.050
+ INCL HETATOMS
+ INCL HYDROGENS
+ INCL WATERS
+ READVDW  25 residues input
+ NON-STANDARD atom. OXT in residue> ARG A 448 
+ GUESSED vdw of  OXT in ARG A 448  =  1.40
+ NON-STANDARD atom. OXT in residue> ARG B 448 
+ GUESSED vdw of  OXT in ARG B 448  =  1.40
+ NON-STANDARD atom. OXT in residue> ARG C 448 
+ GUESSED vdw of  OXT in ARG C 448  =  1.40
+ NON-STANDARD atom. OXT in residue> ARG D 448 
+ GUESSED vdw of  OXT in ARG D 448  =  1.40
+ UNKNOWN residue type.............> GCO B 500 
+ NON-STANDARD atom. C1  in residue> GCO B 500 
+ GUESSED vdw of  C1  in GCO B 500  =  1.80
+ NON-STANDARD atom. C2  in residue> GCO B 500 
+ GUESSED vdw of  C2  in GCO B 500  =  1.80
+ NON-STANDARD atom. C3  in residue> GCO B 500 
+ GUESSED vdw of  C3  in GCO B 500  =  1.80
+ NON-STANDARD atom. C4  in residue> GCO B 500 
+ GUESSED vdw of  C4  in GCO B 500  =  1.80
+ NON-STANDARD atom. C5  in residue> GCO B 500 
+ GUESSED vdw of  C5  in GCO B 500  =  1.80
+ NON-STANDARD atom. C6  in residue> GCO B 500 
+ GUESSED vdw of  C6  in GCO B 500  =  1.80
+ NON-STANDARD atom. O1A in residue> GCO B 500 
+ ASSUMED vdw of  O1A in GCO B 500  =  1.35 (same as HEM)
+ NON-STANDARD atom. O1B in residue> GCO B 500 
+ GUESSED vdw of  O1B in GCO B 500  =  1.40
+ NON-STANDARD atom. O2  in residue> GCO B 500 
+ GUESSED vdw of  O2  in GCO B 500  =  1.40
+ NON-STANDARD atom. O3  in residue> GCO B 500 
+ GUESSED vdw of  O3  in GCO B 500  =  1.40
+ NON-STANDARD atom. O4  in residue> GCO B 500 
+ GUESSED vdw of  O4  in GCO B 500  =  1.40
+ NON-STANDARD atom. O5  in residue> GCO B 500 
+ GUESSED vdw of  O5  in GCO B 500  =  1.40
+ NON-STANDARD atom. O6  in residue> GCO B 500 
+ GUESSED vdw of  O6  in GCO B 500  =  1.40
+ UNKNOWN residue type.............> GCO C 500 
+ NON-STANDARD atom. C1  in residue> GCO C 500 
+ GUESSED vdw of  C1  in GCO C 500  =  1.80
+ NON-STANDARD atom. C2  in residue> GCO C 500 
+ GUESSED vdw of  C2  in GCO C 500  =  1.80
+ NON-STANDARD atom. C3  in residue> GCO C 500 
+ GUESSED vdw of  C3  in GCO C 500  =  1.80
+ NON-STANDARD atom. C4  in residue> GCO C 500 
+ GUESSED vdw of  C4  in GCO C 500  =  1.80
+ NON-STANDARD atom. C5  in residue> GCO C 500 
+ GUESSED vdw of  C5  in GCO C 500  =  1.80
+ NON-STANDARD atom. C6  in residue> GCO C 500 
+ GUESSED vdw of  C6  in GCO C 500  =  1.80
+ NON-STANDARD atom. O1A in residue> GCO C 500 
+ ASSUMED vdw of  O1A in GCO C 500  =  1.35 (same as HEM)
+ NON-STANDARD atom. O1B in residue> GCO C 500 
+ GUESSED vdw of  O1B in GCO C 500  =  1.40
+ NON-STANDARD atom. O2  in residue> GCO C 500 
+ GUESSED vdw of  O2  in GCO C 500  =  1.40
+ NON-STANDARD atom. O3  in residue> GCO C 500 
+ GUESSED vdw of  O3  in GCO C 500  =  1.40
+ NON-STANDARD atom. O4  in residue> GCO C 500 
+ GUESSED vdw of  O4  in GCO C 500  =  1.40
+ NON-STANDARD atom. O5  in residue> GCO C 500 
+ GUESSED vdw of  O5  in GCO C 500  =  1.40
+ NON-STANDARD atom. O6  in residue> GCO C 500 
+ GUESSED vdw of  O6  in GCO C 500  =  1.40
+ UNKNOWN residue type.............> GCO D 500 
+ NON-STANDARD atom. C1  in residue> GCO D 500 
+ GUESSED vdw of  C1  in GCO D 500  =  1.80
+ NON-STANDARD atom. C2  in residue> GCO D 500 
+ GUESSED vdw of  C2  in GCO D 500  =  1.80
+ NON-STANDARD atom. C3  in residue> GCO D 500 
+ GUESSED vdw of  C3  in GCO D 500  =  1.80
+ NON-STANDARD atom. C4  in residue> GCO D 500 
+ GUESSED vdw of  C4  in GCO D 500  =  1.80
+ NON-STANDARD atom. C5  in residue> GCO D 500 
+ GUESSED vdw of  C5  in GCO D 500  =  1.80
+ NON-STANDARD atom. C6  in residue> GCO D 500 
+ GUESSED vdw of  C6  in GCO D 500  =  1.80
+ NON-STANDARD atom. O1A in residue> GCO D 500 
+ ASSUMED vdw of  O1A in GCO D 500  =  1.35 (same as HEM)
+ NON-STANDARD atom. O1B in residue> GCO D 500 
+ GUESSED vdw of  O1B in GCO D 500  =  1.40
+ NON-STANDARD atom. O2  in residue> GCO D 500 
+ GUESSED vdw of  O2  in GCO D 500  =  1.40
+ NON-STANDARD atom. O3  in residue> GCO D 500 
+ GUESSED vdw of  O3  in GCO D 500  =  1.40
+ NON-STANDARD atom. O4  in residue> GCO D 500 
+ GUESSED vdw of  O4  in GCO D 500  =  1.40
+ NON-STANDARD atom. O5  in residue> GCO D 500 
+ GUESSED vdw of  O5  in GCO D 500  =  1.40
+ NON-STANDARD atom. O6  in residue> GCO D 500 
+ GUESSED vdw of  O6  in GCO D 500  =  1.40
+ ADDED VDW RADII
+ CHAINS      11
+ RESIDUES  3285
+ ATOMS    16109
+ SOLVA: PROGRAM ENDS CORRECTLY
+ CALCULATED ATOMIC ACCESSIBILITES
+ RELATIVE (STANDARD) ACCESSIBILITIES READFOR  23 AMINO ACIDS
+ SUMMED ACCESSIBILITIES OVER RESIDUES

@@ -1,0 +1,45 @@
+ ACCALL - Accessibility calculations
+ PDB FILE INPUT 1zir.new
+ PROBE SIZE       1.40
+ Z-SLICE WIDTH   0.050
+ INCL HETATOMS
+ INCL HYDROGENS
+ INCL WATERS
+ READVDW  25 residues input
+ NON-STANDARD atom. OXT in residue> TYR A1173 
+ GUESSED vdw of  OXT in TYR A1173  =  1.40
+ UNKNOWN residue type.............> ACT A2378 
+ NON-STANDARD atom. C   in residue> ACT A2378 
+ ASSUMED vdw of  C   in ACT A2378  =  1.76 (same as ALA)
+ NON-STANDARD atom. O   in residue> ACT A2378 
+ ASSUMED vdw of  O   in ACT A2378  =  1.40 (same as ALA)
+ NON-STANDARD atom. OXT in residue> ACT A2378 
+ GUESSED vdw of  OXT in ACT A2378  =  1.40
+ NON-STANDARD atom. CH3 in residue> ACT A2378 
+ ASSUMED vdw of  CH3 in ACT A2378  =  1.87 (same as ACE)
+ UNKNOWN residue type.............> ACT A2380 
+ NON-STANDARD atom. C   in residue> ACT A2380 
+ ASSUMED vdw of  C   in ACT A2380  =  1.76 (same as ALA)
+ NON-STANDARD atom. O   in residue> ACT A2380 
+ ASSUMED vdw of  O   in ACT A2380  =  1.40 (same as ALA)
+ NON-STANDARD atom. OXT in residue> ACT A2380 
+ GUESSED vdw of  OXT in ACT A2380  =  1.40
+ NON-STANDARD atom. CH3 in residue> ACT A2380 
+ ASSUMED vdw of  CH3 in ACT A2380  =  1.87 (same as ACE)
+ UNKNOWN residue type.............> ACT A2382 
+ NON-STANDARD atom. C   in residue> ACT A2382 
+ ASSUMED vdw of  C   in ACT A2382  =  1.76 (same as ALA)
+ NON-STANDARD atom. O   in residue> ACT A2382 
+ ASSUMED vdw of  O   in ACT A2382  =  1.40 (same as ALA)
+ NON-STANDARD atom. OXT in residue> ACT A2382 
+ GUESSED vdw of  OXT in ACT A2382  =  1.40
+ NON-STANDARD atom. CH3 in residue> ACT A2382 
+ ASSUMED vdw of  CH3 in ACT A2382  =  1.87 (same as ACE)
+ ADDED VDW RADII
+ CHAINS       1
+ RESIDUES   315
+ ATOMS     1533
+ SOLVA: PROGRAM ENDS CORRECTLY
+ CALCULATED ATOMIC ACCESSIBILITES
+ RELATIVE (STANDARD) ACCESSIBILITIES READFOR  23 AMINO ACIDS
+ SUMMED ACCESSIBILITIES OVER RESIDUES

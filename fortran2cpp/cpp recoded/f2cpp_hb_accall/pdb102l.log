@@ -1,0 +1,8 @@
+ ACCALL - Accessibility calculations
+ PDB FILE INPUT pdb102l.ent
+ PROBE SIZE       1.00
+ Z-SLICE WIDTH   0.070
+ INCL HETATOMS
+ EXCL HYDROGENS
+ INCL WATERS
+ READVDW  25 residues input

@@ -1,0 +1,40 @@
+ ACCALL - Accessibility calculations
+ PDB FILE INPUT pdb102l.new                                                                                                                                                                                                                                                     
+ PROBE SIZE       1.40
+ Z-SLICE WIDTH   0.050
+ INCL HETATOMS
+ INCL HYDROGENS
+ INCL WATERS
+ READVDW  25 residues input
+ UNKNOWN residue type.............>  CL A 173 
+ NON-STANDARD atom.CL   in residue>  CL A 173 
+ GUESSED vdw of CL   in  CL A 173  =  1.80
+ UNKNOWN residue type.............>  CL A 178 
+ NON-STANDARD atom.CL   in residue>  CL A 178 
+ GUESSED vdw of CL   in  CL A 178  =  1.80
+ UNKNOWN residue type.............> BME A 901 
+ NON-STANDARD atom. C1  in residue> BME A 901 
+ GUESSED vdw of  C1  in BME A 901  =  1.80
+ NON-STANDARD atom. C2  in residue> BME A 901 
+ GUESSED vdw of  C2  in BME A 901  =  1.80
+ NON-STANDARD atom. O1  in residue> BME A 901 
+ GUESSED vdw of  O1  in BME A 901  =  1.40
+ NON-STANDARD atom. S2  in residue> BME A 901 
+ GUESSED vdw of  S2  in BME A 901  =  1.85
+ UNKNOWN residue type.............> BME A 902 
+ NON-STANDARD atom. C1  in residue> BME A 902 
+ GUESSED vdw of  C1  in BME A 902  =  1.80
+ NON-STANDARD atom. C2  in residue> BME A 902 
+ GUESSED vdw of  C2  in BME A 902  =  1.80
+ NON-STANDARD atom. O1  in residue> BME A 902 
+ GUESSED vdw of  O1  in BME A 902  =  1.40
+ NON-STANDARD atom. S2  in residue> BME A 902 
+ GUESSED vdw of  S2  in BME A 902  =  1.85
+ ADDED VDW RADII
+ CHAINS       1
+ RESIDUES   299
+ ATOMS     1439
+ SOLVA: PROGRAM ENDS CORRECTLY
+ CALCULATED ATOMIC ACCESSIBILITES
+ RELATIVE (STANDARD) ACCESSIBILITIES READFOR  23 AMINO ACIDS
+ SUMMED ACCESSIBILITIES OVER RESIDUES
